@@ -77,8 +77,5 @@ Describe how the changes were tested (commands, scenarios, or attach screenshots
 ## Screenshots / Recordings (optional)
 - Attach screenshots, logs, or GIFs demonstrating UI/behavior (if applicable)
 
-## Release notes (short)
-- One-line note for release changelog
-
 ## Other notes
-- Deployment instructions, feature flags to enable, rollout plan, or backward-compatibility notes.
+- Deployment instructions, rollout plan, or backward-compatibility notes.
